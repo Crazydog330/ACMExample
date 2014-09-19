@@ -2,5 +2,11 @@
 
 int main()
 {
-  std::cout << "Hello ACM!";
+  int v = 0;
+  
+  cout << "Enter something: ";
+  cin >> v
+  
+
+  std::cout << "Hello ACM!" << V << endl;
 }
